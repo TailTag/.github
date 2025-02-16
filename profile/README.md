@@ -1,7 +1,9 @@
 # 🏷️ TailTag
 
-🚀 **TailTag** is a modern, user-friendly web app that lets you create a personal **"About Me"** page with social links, a bio, and more—without needing any coding knowledge! Just sign in, customize, and share your unique URL:  
-🔗 **[tailtag.mewo.gay/@your-handle](https://tailtag.mewo.gay)**
+🏷️ **TailTag** – The ultimate way to mark your digital territory! 🌐✨ Create a sleek, shareable profile with all your links in one cozy den. No coding required—just sign in, customize, and share your unique URL:  
+🔗 **[tailtag.mewo.gay/@your-handle](https://tailtag.mewo.gay)**! 🐾🚀
+
+Self-hosted, open-source, and always ready to wag. Join the pack at **[tailtag.mewo.gay](https://tailtag.mewo.gay)**!
 
 ---
 
