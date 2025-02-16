@@ -1,9 +1,9 @@
 # 🏷️ TailTag
 
 🏷️ **TailTag** – The ultimate way to mark your digital territory! 🌐✨ Create a sleek, shareable profile with all your links in one cozy den. No coding required—just sign in, customize, and share your unique URL:  
-🔗 **[tailtag.mewo.gay/@your-handle](https://tailtag.mewo.gay)**! 🐾🚀
+🔗 **[tailtag.link/@your-handle](https://tailtag.link)**! 🐾🚀
 
-Self-hosted, open-source, and always ready to wag. Join the pack at **[tailtag.mewo.gay](https://tailtag.mewo.gay)**!
+Self-hosted, open-source, and always ready to wag. Join the pack at **[tailtag.link](https://tailtag.link)**!
 
 ---
 
@@ -127,6 +127,6 @@ Want to help make **TailTag** even better? PRs and suggestions are welcome! 🚀
 
 👥 **Join us & create your personal link today!**
 
-🔗 **[tailtag.mewo.gay](https://tailtag.mewo.gay)**
+🔗 **[tailtag.link](https://tailtag.link)**
 
 ---
