@@ -11,11 +11,11 @@ Self-hosted, open-source, and always ready to wag. Join the pack at **[tailtag.l
 
 We follow a modular approach, with separate repositories for different components:
 
+🔹 **[tailtag/landing-page](https://github.com/tailtag/landing-page)** – Temporary landing page (React, Tailwind, TypeScript, shadcn/ui)  
 🔹 **[tailtag/server](https://github.com/tailtag/server)** – Backend server (Node.js, Express, PostgreSQL)  
 🔹 **[tailtag/frontend](https://github.com/tailtag/frontend)** – Frontend (React, Tailwind, TypeScript)  
 🔹 **tailtag/server-config** _(Private Repo)_ – Scripts & configuration files (environment variables, deployment scripts)  
 🔹 **[tailtag/hey](https://github.com/tailtag/hey)** – Public documentation & guides for hosting TailTag
-🔹 **[tailtag/landing-page](https://github.com/tailtag/landing-page)** – Temporary landing page (React, Tailwind, TypeScript, shadcn/ui)
 
 📌 **GitHub Organization**: [github.com/tailtag](https://github.com/tailtag)
 
