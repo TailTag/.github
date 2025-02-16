@@ -15,6 +15,7 @@ We follow a modular approach, with separate repositories for different component
 🔹 **[tailtag/frontend](https://github.com/tailtag/frontend)** – Frontend (React, Tailwind, TypeScript)  
 🔹 **tailtag/server-config** _(Private Repo)_ – Scripts & configuration files (environment variables, deployment scripts)  
 🔹 **[tailtag/hey](https://github.com/tailtag/hey)** – Public documentation & guides for hosting TailTag
+🔹 **[tailtag/landing-page](https://github.com/tailtag/landing-page)** – Temporary landing page (React, Tailwind, TypeScript, shadcn/ui)
 
 📌 **GitHub Organization**: [github.com/tailtag](https://github.com/tailtag)
 
