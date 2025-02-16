@@ -42,7 +42,7 @@ We follow a modular approach, with separate repositories for different component
 
 - 🔑 Keycloak SSO login
 - 🔒 Only you can edit your page
-- 🖼️ Secure image uploads (MinIO)
+- 🖼️ Secure image uploads (S3)
 
 ✅ **Analytics & Insights**
 
@@ -60,7 +60,7 @@ We follow a modular approach, with separate repositories for different component
 **Backend**: Node.js, Express, PostgreSQL, Drizzle ORM  
 **Frontend**: React, Tailwind, ShadCN, TypeScript, Vite  
 **Authentication**: Keycloak SSO  
-**Storage**: MinIO (for profile pictures & gallery images)  
+**Storage**: Hetzner Object Storage (S3) (for profile pictures & gallery images)  
 **Analytics**: Umami  
 **Deployment**: Docker, Traefik
 
@@ -80,7 +80,7 @@ We follow a modular approach, with separate repositories for different component
 
 🔄 Implement Keycloak authentication  
 🔄 Build user profile and storage APIs  
-🔄 Set up MinIO for file storage  
+🔄 Set up Hetzner Object Storage for file storage  
 🔄 Implement analytics tracking
 
 ### **🎨 Phase 3: Frontend Development (3-4 weeks)**
