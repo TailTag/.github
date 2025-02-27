@@ -14,6 +14,7 @@ We follow a modular approach, with separate repositories for different component
 🔹 **[tailtag/app](https://github.com/tailtag/app)** – Server & Frontend (NextJS, Supabase, TailwindCSS, TypeScript)  
 🔹 **[tailtag/server](https://github.com/tailtag/server)** – Backend API, Containers, Basic setup, Traefik + Supabase  
 🔹 **[tailtag/.github](https://github.com/tailtag/.github)** – Public documentation & guides for hosting TailTag  
+🔹 **[tailtag/earlyuser-mailer](https://github.com/TailTag/earlyuser-mailer)** – Internal tool for sending free TailTag Pro to early members (Supabase, TypeScript)  
 🔹 **[tailtag/landing-page](https://github.com/tailtag/landing-page)** – Temporary landing page (React, Tailwind, TypeScript, shadcn/ui)  
 
 📌 **GitHub Organization**: [github.com/tailtag](https://github.com/tailtag)
